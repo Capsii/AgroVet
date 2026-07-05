@@ -34,7 +34,7 @@ const DiagnosisSchema = new Schema<IDiagnosis>(
     confidence_score: { type: Number, default: null },
     severity: {
       type: String,
-      enum: ['Low', 'Medium', 'High'],
+      enum: ['Low', 'Medium', 'High', 'Moderate'],
       default: null,
     },
     causes: { type: [String], default: [] },
