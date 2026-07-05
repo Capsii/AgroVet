@@ -1,0 +1,49 @@
+{
+  "Dog": [
+    "Bacterial Dermatosis",
+    "Demodicosis",
+    "Dermatitis",
+    "Fungal Infections",
+    "Healthy",
+    "Hypersensitivity",
+    "Ringworm"
+  ],
+  "Donkey": [
+    "Glanders",
+    "Healthy",
+    "Tetanus"
+  ],
+  "Yak": [
+    "Foot Rot",
+    "Healthy",
+    "Yak Tuberculosis"
+  ],
+  "Camel": [
+    "Camel Pox",
+    "Foot, Mouth, Hoof Rot Diseases",
+    "Healthy",
+    "Trypanosomiasis (Surra)"
+  ],
+  "Pony": [
+    "Equine Influenza",
+    "Healthy",
+    "Mange",
+    "Strangles",
+    "Tetanus"
+  ],
+  "Cat": [
+    "Dermatitis",
+    "Flea Allergy",
+    "Healthy",
+    "Mange - Scabies",
+    "Ringworm"
+  ],
+  "Bull-Bison": [
+    "Anthrax",
+    "Black Quarter (Blackleg)",
+    "Foot, Mouth, Hoof Rot Diseases",
+    "Healthy",
+    "Lumpy Skin",
+    "Mastitis"
+  ]
+}
